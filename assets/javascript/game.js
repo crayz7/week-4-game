@@ -1,4 +1,4 @@
-var numbToGuess;
+var numberToGuess;
 var wins = 0;
 var losses = 0;
 var yourNumber = 0
